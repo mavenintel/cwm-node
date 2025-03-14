@@ -1,0 +1,8 @@
+#nodejs
+node_modules
+
+#typescript
+dist
+
+#macos
+.DS_Store
